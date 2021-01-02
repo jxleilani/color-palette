@@ -10,4 +10,4 @@ Allows the user to generate 5 random colors as a palette. The settings button ca
 Click `Generate` to produce 5 random colors. If you see one you like, click the `padlock` to lock it in place. Once you've found your colors, click `Save` to add it to your `library`.
 
 ### About 
-Created as course work for DevEd.
+Created as course work for [DevEd](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q).
